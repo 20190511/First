@@ -4,5 +4,5 @@
 - 리스트 1
 - 리스트 2
 
-  [네이버](https:www.naver.com)   
-  [구글](https:www.google.com)
+  [네이버](www.naver.com)   
+  [구글](www.google.com)
